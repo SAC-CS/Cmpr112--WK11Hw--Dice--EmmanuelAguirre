@@ -101,3 +101,5 @@ public class Dice
 	}
 	
 }
+
+// Good.  Please read aehad t the ARRAY section of the book.
